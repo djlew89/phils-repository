@@ -1,4 +1,4 @@
-package com.philslibrary.POJOS;
+package com.philslibrary;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
